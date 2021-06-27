@@ -1,0 +1,56 @@
+{
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "e6616abbc5f9a767e42a647707c5f82c671be1eb12fb098f16069bd7699b24bf"
+    }
+  ],
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator14.5",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/Ronish/Documents/iOS Udemy/Destini-iOS13/Build/Intermediates",
+      "buildProductsPath" : "/Users/Ronish/Documents/iOS Udemy/Destini-iOS13/Build/Products",
+      "derivedDataPath" : "/Users/Ronish/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/Ronish/Library/Developer/Xcode/DerivedData/Destini-iOS13-gryxwoitcydgaxgqhlhaggsujpqi/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/Ronish/Library/Developer/Xcode/DerivedData/Destini-iOS13-gryxwoitcydgaxgqhlhaggsujpqi/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/Ronish/Documents/iOS Udemy/Destini-iOS13/Build/Intermediates/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone12,3",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "14.5",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "ENABLE_PREVIEWS" : "NO",
+          "TARGET_DEVICE_IDENTIFIER" : "C4F05B50-B66C-4492-BA34-B69CB6F7189B",
+          "TARGET_DEVICE_MODEL" : "iPhone12,3",
+          "TARGET_DEVICE_OS_VERSION" : "14.5",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
